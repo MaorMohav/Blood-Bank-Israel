@@ -22,7 +22,7 @@ With advanced tracking and monitoring features, our system ensures the highest l
 - Ability to track blood donation requests and donations.
 - Export all blood bank operations to a CSV files.
 
-## Usage video
+## Usage Video
 ![Alt text](Blood Bank.gif)
 
 ## Runs the app:
