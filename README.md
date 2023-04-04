@@ -18,12 +18,12 @@ With advanced tracking and monitoring features, our system ensures the highest l
 - Donation form.
 - Only healthy individuals are allowed to donate blood.
 - Authentication and authorization using Firebase.
-- Delivery of blood donations to hospitals using a secret code.
+- Delivery of blood units to hospitals by an authorized official (who needs to log in).
 - Ability to track blood donation requests and donations.
 - Export all blood bank operations to a CSV files.
 
 ## Usage Video
-![Alt text](Blood Bank.gif)
+![Alt text](BloodBank.gif)
 
 ## Runs the app:
 
