@@ -15,12 +15,12 @@ With advanced tracking and monitoring features, our system ensures the highest l
 
 ## Features:
 
-Donor registration.
-Only healthy individuals are allowed to donate blood.
-Authentication and authorization using Firebase.
-Delivery of blood donations to hospitals using a secret code.
-Ability to track blood donation requests and donations.
-Export all blood bank operations to a CSV files.
+- Donor registration.
+- Only healthy individuals are allowed to donate blood.
+- Authentication and authorization using Firebase.
+- Delivery of blood donations to hospitals using a secret code.
+- Ability to track blood donation requests and donations.
+- Export all blood bank operations to a CSV files.
 
 
 ## Runs the app:
