@@ -1,8 +1,29 @@
-# Getting Started with Create React App
+# The Israeli Blood Bank
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
+### The Israeli Blood Bank is a web application that allows users to donate and receive blood donations in Israel. It is built using React and Firebase and is designed to be easy to use and navigate.
+
+
+## System Background:
+                    
+Introducing the ultimate solution for managing Israel's blood bank: a state-of-the-art platform designed to streamline the blood donation process and ensure that hospitals and trauma centers have a constant supply of blood units for emergency situations.
+Our platform allows for seamless reception of blood units from donors across Israel and efficient distribution to surgery and trauma rooms, both in routine and emergency situations. 
+With advanced tracking and monitoring features, our system ensures the highest levels of quality control and patient safety. Join us in our mission to save lives and make a meaningful impact on the healthcare industry!
+
+
+## Features:
+
+Donor registration.
+Only healthy individuals are allowed to donate blood.
+Authentication and authorization using Firebase.
+Delivery of blood donations to hospitals using a secret code.
+Ability to track blood donation requests and donations.
+Export all blood bank operations to a CSV files.
+
+
+## Runs the app
 
 In the project directory, you can run:
 
@@ -39,32 +60,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
