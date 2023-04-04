@@ -1,0 +1,59 @@
+/* StartScreen.css */
+.start-screen-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #F5DEB3;
+}
+
+.start-screen {
+  background-color: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.system-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.system-description {
+  font-size: 22px;
+  color: #697096;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.system-description-bold {
+  font-weight: bold;
+}
+
+
+.btn {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #8B0000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  margin-right: 10px;
+}
+
+.btn:last-child {
+  margin-right: 0;
+}
+.btn:hover {
+  background-color: #B22222;
+}
