@@ -15,7 +15,7 @@ With advanced tracking and monitoring features, our system ensures the highest l
 
 ## Features:
 
-- Donor registration.
+- Donation form.
 - Only healthy individuals are allowed to donate blood.
 - Authentication and authorization using Firebase.
 - Delivery of blood donations to hospitals using a secret code.
