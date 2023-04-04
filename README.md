@@ -3,7 +3,7 @@
 
 
 
-#### The Israeli Blood Bank is a web application that allows users to donate and receive blood donations in Israel. It is built using React and Firebase and is designed to be easy to use and navigate.
+The Israeli Blood Bank is a web application that allows users to donate and receive blood donations in Israel. It is built using React and Firebase and is designed to be easy to use and navigate.
 
 
 ## System Background:
@@ -23,7 +23,7 @@ Ability to track blood donation requests and donations.
 Export all blood bank operations to a CSV files.
 
 
-## Runs the app
+## Runs the app:
 
 In the project directory, you can run:
 
