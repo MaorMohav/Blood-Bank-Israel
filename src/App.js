@@ -1,8 +1,4 @@
 
-// Name: Maor Mohav , ID: 316142363
-// Name: Ariel Epshtein , ID: 316509504
-// Name: Omer Ben David , ID: 316344449
-
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes,Navigate } from "react-router-dom";
 import Home from './components/Home';
