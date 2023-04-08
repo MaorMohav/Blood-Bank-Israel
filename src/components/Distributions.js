@@ -1,8 +1,3 @@
-
-// Name: Maor Mohav , ID: 316142363
-// Name: Ariel Epshtein , ID: 316509504
-// Name: Omer Ben David , ID: 316344449
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import "./Distributions.css";
